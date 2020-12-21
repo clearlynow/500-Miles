@@ -6,4 +6,4 @@ Day 19 Challenge
 
 https://www.hackingwithswift.com/100/swiftui/19
 
-![500 Miles Screenshot](<https://github.com/clearlynow/500-Miles/blob/main/500MilesMovie.mov>)
+![Screenshot](500MilesMovie.mov)
