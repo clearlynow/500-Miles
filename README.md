@@ -1,4 +1,4 @@
-# 500-Miles
+# 500Miles
 Length Converter App - enter a length and select units (meters, km, ft, yards, miles) to convert the length to any unit
 
 Day 19 Challenge
