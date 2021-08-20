@@ -6,5 +6,5 @@ Day 19 Challenge
 
 https://www.hackingwithswift.com/100/swiftui/19
 
-![Screenshot](https://github.com/clearlynow/500Miles/blob/main/ConverterMovie.mov)
+![Screenshot](https://github.com/clearlynow/500Miles/blob/main/500miles.gif)
 
