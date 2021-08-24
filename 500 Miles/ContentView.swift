@@ -74,7 +74,7 @@ struct ContentView: View {
                 
                 Text("\(outputLength)")
             }
-            }
+        }.navigationTitle("I Would Walk 500 Miles")
         }
     }
 }
